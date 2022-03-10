@@ -1,2 +1,3 @@
 # FrozenMagisk
-Development was real fast.
+
+Fix not mounting /system inside recovery by regression of version custom url.
