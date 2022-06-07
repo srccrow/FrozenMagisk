@@ -8,4 +8,4 @@ https://github.com/topjohnwu/Magisk/issues/5395
 
 # Alternative to AdGuard Certificate
 
-Alternative is using module Move Certificates.
+Alternative is using module Move Certificate + Specific browsers that don't enforce Certificate Transparency like Mulch https://gitlab.com/divested-mobile/mulch or Bromite enabling chrome://flags#allow-user-certificates Enabled chrome://flags#certificate-transparency-enabled Disabled + Specific Hooking using https://github.com/jpacg/TrustMeAlready of the Browser.
