@@ -8,4 +8,4 @@ https://github.com/topjohnwu/Magisk/issues/5395
 
 # Alternative to AdGuard Certificate
 
-Alternative is using module Move Certificates
+Alternative is using module Move Certificates.
