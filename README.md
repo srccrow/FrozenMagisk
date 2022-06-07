@@ -4,7 +4,7 @@ This version of Magisk should be used on Android devices using an old kernel lik
 
 # Reference
 
-hxxps://github.com/topjohnwu/Magisk/issues/5395
+https://github.com/topjohnwu/Magisk/issues/5395
 
 # Alternative to AdGuard Certificate
 
